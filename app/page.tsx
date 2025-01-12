@@ -1,11 +1,9 @@
 import Graph from "./components/Graph"
-import Add from "./components/Add"
 import AnalysisPage from "./components/Analysis"
 import SantimentPage from "./components/Sentiment"
 import About from "./components/About"
 import Tocenomics from "./components/Tokenomics"
 import Team from "./components/Team"
-import Footer from "./components/Footer"
 
 
 
